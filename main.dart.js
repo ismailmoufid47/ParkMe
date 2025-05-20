@@ -86474,7 +86474,7 @@ r.e.U(s)},
 z4(){var s=0,r=A.H(t.H),q=1,p=[],o=this,n,m,l,k,j
 var $async$z4=A.D(function(a,b){if(a===1){p.push(b)
 s=q}while(true)switch(s){case 0:q=3
-n=new A.anz("mapbox://styles/mapbox/light-v11?access_token=pk.eyJ1IjoiaXNtYWlsbW91IiwiYSI6ImNtYXB4YjhtaDAzc20ycnF6NnA5YXl1dWIifQ.FWht-2xFYd8NyhjLmkuVjw",B.D4)
+n=new A.anz("https://api.mapbox.com/styles/v1/mapbox/light-v11?access_token=pk.eyJ1IjoiaXNtYWlsbW91IiwiYSI6ImNtYXB4YjhtaDAzc20ycnF6NnA5YXl1dWIifQ.FWht-2xFYd8NyhjLmkuVjw",B.D4)
 s=6
 return A.w(n.lm(),$async$z4)
 case 6:m=b
